@@ -1,5 +1,6 @@
 ---
 title: README
+date: 2022-11-12T20:47:01.014Z
 ---
 
 # vuepress-boilerplate-netlify-cms
