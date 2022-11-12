@@ -4,8 +4,8 @@
   "description": "VuePress boilerplate integrated with Netlify CMS, powered by Demo Macro.",
   "private": true,
   "scripts": {
-    "dev": "vuepress dev",
-    "build": "vuepress build"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
   },
   "repository": {
     "type": "git",
